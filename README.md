@@ -57,3 +57,48 @@ The business objectives included the following:
     
 - <b>New CMS</b>
   - Linux
+
+<h2>Software Tester Responsibilities</h2>
+
+- <b>Requirement Analysis</b>
+  - Understand and analyze software requirements from business analysts, developers, and stakeholders.
+  - Identify testable and non-testable requirements.
+  - Clarify any ambiguities with the development team.
+  - reate a Requirement Traceability Matrix (RTM) to track test cases against requirements.
+
+- <b>Test Planning</b>
+  - Develop a Test Plan outlining objectives, scope, resources, schedules, and risks.
+  - Select testing techniques (manual vs. automation).
+  - Identify testing tools and environments.
+  - Define entry and exit criteria for each test phase.
+ 
+- <b>Test Case Design & Preparation</b>
+  - Write detailed and structured test cases covering functional, non-functional, regression, and exploratory testing.
+  - Develop test data for different test scenarios (valid, invalid, boundary conditions).
+  - Prioritize test cases based on risk and impact.
+ 
+- <b>Test Environment Setup</b>
+  - Coordinate with DevOps or system admins to configure the test environment.
+  - Ensure required software, databases, and dependencies are correctly installed.
+  - Verify network and access permissions.
+
+- <b>Test Execution</b>
+  - Perform different types of testing (Functional, Regression, Smoke, Sanity, Performance, Security, etc.).
+  - Log defects/bugs in a bug-tracking tool (e.g., Jira, Bugzilla).
+  - Reproduce and investigate reported defects.
+  - Retest fixed bugs to ensure they are resolved.
+
+- <b>Defect Management</b>
+  - Track and document defects with detailed steps, screenshots, and logs.
+  - Work closely with developers to help them understand and resolve issues.
+  - Verify bug fixes and ensure no new defects are introduced. 
+    
+- <b>Test Reporting & Documentation</b>
+  - Prepare Test Summary Reports detailing executed test cases, passed/failed cases, defect statistics, and overall software quality.
+  - Provide detailed logs and screenshots for failed test cases.
+  - Maintain test artifacts (test cases, plans, reports) for future reference.
+
+- <b>UAT (User Acceptance Testing) Support</b>
+  - Assist business users in conducting User Acceptance Testing (UAT).
+  - Provide guidance on test case execution.
+  - Document and track feedback from UAT.
